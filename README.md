@@ -1,6 +1,6 @@
 - 👋 Hello, I’m Pascal :-)
-- 👀 I’m interested in all around DevOps, cloud and how to automate stuff.
-- 🌱 I’m currently learning how to develop a discord bot.
+- 👀 I’m interested in all around DevOps, cloud and how to automate stuff in Kubernetes.
+- 🌱 I’m currently improving my Go skills. 🥳
 - 📫 How to reach me? Find me on my [blog](https://pgrunm.github.io).
 
 <!---
