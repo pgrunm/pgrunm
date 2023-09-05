@@ -1,11 +1,11 @@
 <h1 align="center">Hello 👋, I'm Pascal</h1>
-<h3 align="center">I’m interested in all around DevOps, Cloud and how to do amazing things with Kubernetes.</h3>
+<h3 align="center">I’m interested in all around DevOps, automation, cloud and how to do amazing things with Kubernetes.</h3>
 
-- 🔭 I’m currently working on **improving my Go skills.**
+- 🔭 I’m currently working on **improving my Go skills** and becoming an even better Devops Engineer 😎.
 
 - 📝 I regularly write articles on [https://pgrunm.github.io/](https://pgrunm.github.io/)
 
-- 💬 Ask me about **Go, Cloud things and automation.**
+- 💬 Ask me about **Go, cloud things and automation.**
 
 - 📫 How to reach me **https://mailhide.io/e/kQhcqCgM**
 
