@@ -76,3 +76,5 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pgrunm&show_icons=true&locale=en&layout=compact&hide=html,abap,tex" alt="pgrunm" />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pgrunm&show_icons=true&locale=en" alt="pgrunm" /></p>
 
+![Top Languages](./profile/top-langs.svg)
+
