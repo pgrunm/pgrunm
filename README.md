@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **improving my Go skills** and becoming an even better Devops Engineer 😎. Also I'm working on a new thing.
 
-- I created a new blog, where I write cloud, Kubernetes, automation and more. Find it [here](https://www.cloudmeier.com).
+- I created a new blog, where I write about cloud, Kubernetes, automation and more. Find it [here](https://www.cloudmeier.com).
 
 - 📝 I regularly write articles on [https://pgrunm.github.io/](https://pgrunm.github.io/)
 
