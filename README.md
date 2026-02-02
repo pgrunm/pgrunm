@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="/https://pgrunm.github.io/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://pgrunm.github.io/index.xml" height="30" width="40" /></a>
+<a href="https://pgrunm.github.io/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://pgrunm.github.io/index.xml" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pascal-g-94055834a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pascal-g-94055834a" height="30" width="40" /></a>
 </p>
 
